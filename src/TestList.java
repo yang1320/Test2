@@ -20,7 +20,7 @@ public class TestList implements Serializable,Runnable {
 
 	public static void main(String[] args) {
 		
-		
+		System.out.println("hello");
 	}
 	
 	
